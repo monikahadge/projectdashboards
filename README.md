@@ -1,2 +1,2 @@
 COVID-19 VACCINATION ANALYSIS DASHBOARD USING TABLEAU
-Here you will find interactive dashboards projects created by me.
+Created dashboard using tableau, which will give analysis of worldwide vaccination rate to find the areas with less vaccination and focus to improve vaccination rate there to fight against covid.
